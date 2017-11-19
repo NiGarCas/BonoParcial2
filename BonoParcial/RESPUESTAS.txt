@@ -1,0 +1,16 @@
+1.A)
+
+1. Falso
+2. Verdadero
+3. Verdadero
+4. Falso
+
+1.B)
+
+Verdadero
+
+
+2.2)
+El programa lee a través de un Scanner la información las sedes de la Universidad y sus respectivos programas y los va creando internamente.
+Comparando el primer String de cada linea se sabe el tipo de programa o sede es.
+Primero se carga una sede, luego todos sus programas. Cuando se cargan los programas se pasa a la siguiente sede y así sucesivamente hasta culminar la lectura del archivo.
